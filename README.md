@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**hello-nau/hello-nau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> Yana Tassin </h2>
 
-Here are some ideas to get you started:
+<h4 align="center">✨ Java Backend Developer ✨</h4>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🛠 Skills<br />
+  
+  
+• Java (Corretto 11, Dagger, JUnit, Mockito)<br />
+• AWS (Lambda, ECS, EC2, Cloudformation, DynamoDB, IAM, Amplify)<br />
+• OOP (Inheritance, Polymorphism, Encapsulation, Abstraction)<br />
+• Testing (Integration, Unit testing)<br />
+• Agile Project Management (Trello, Jira, Scrum)<br />
