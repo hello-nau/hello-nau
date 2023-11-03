@@ -6,8 +6,10 @@
 <h4 align="center">✨ Java Backend Developer ✨</h4>
 <br />
 
+  📨 Connect and message me on [LinkedIn]([https://www.linkedin.com/in/william-foksman-4892381a0/](https://www.linkedin.com/in/yana-tassin/))<br />
+
   🛠 Skills<br />
-  
+
   
 • Java (Corretto 11, Dagger, JUnit, Mockito)<br />
 • AWS (Lambda, ECS, EC2, Cloudformation, DynamoDB, IAM, Amplify)<br />
