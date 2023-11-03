@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a driven Backend Software Engineer from Seattle: Specializing in Java, AWS, and Agile Project Management, committed to delivering efficient and scalable solutions. 👋
 
 <h2 align="center"> Yana Tassin </h2>
 
