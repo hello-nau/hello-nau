@@ -5,8 +5,9 @@
 
 <h3 align="center">✨ Java Backend Developer ✨</h3>
 
-### Featured Projects:
 
+### Featured Projects:
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello-nau&layout=compact" />
 <p>1. <b>Kindle Publishing Service (Amazon)</b><br>
 Description: The Kindle Publishing Service streamlines the process of adding ebooks to the Amazon Kindle store by automating the conversion of books into a digital format. Leveraging AWS technologies like DynamoDB, along with Java and Spring Boot, this service reduces wait times and enhances the overall publishing experience.<br>
 Technologies: Java, AWS, DynamoDB, Threading
@@ -24,7 +25,10 @@ Technologies: Java Spring Boot, AWS, DynamoDB,  RESTful APIs, JavaScript, HTML, 
 Description: This project employs Python and data science techniques to analyze various aspects of neighborhoods in Tokyo. It provides insights into amenities distribution, housing prices, and other factors crucial for urban planning and decision-making.<br>
 Technologies: Python, Pandas, Matplotlib, Jupyter Notebook
 </p>
-🚀 Feel free to explore these projects further and contribute to their development! 🚀
+🚀 Feel free to explore these projects further and contribute to their development! 🚀 
+
+
+
 
  📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/yana-tassin/)<br />
 
