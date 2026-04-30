@@ -2,8 +2,7 @@
 
 Software Developer specializing in backend systems, microservices, and reactive architecture.
 
-Currently building aviation software at Trax USA, where I design and own microservices used daily
-by airline mechanics and managers for maintenance workflows, oversight, and scheduling.
+Currently building aviation software, designing and owning microservices used daily by airline mechanics and managers.
 
 ### What I work with
 
